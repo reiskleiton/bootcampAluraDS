@@ -1,0 +1,48 @@
+ Procedimentos hospitalares do SUS - por local de internação - Brasil
+Valor total por Região/Unidade da Federação e Região
+Período:Jan/2008-Ago/2020
+"Região/Unidade da Federação";"1 Região Norte";"2 Região Nordeste";"3 Região Sudeste";"4 Região Sul";"5 Região Centro-Oeste";"Total"
+"Região Norte";9155215791,07;-;-;-;-;9155215791,07
+".. Rondônia";929129659,72;-;-;-;-;929129659,72
+".. Acre";420668039,63;-;-;-;-;420668039,63
+".. Amazonas";1771654871,23;-;-;-;-;1771654871,23
+".. Roraima";305010883,18;-;-;-;-;305010883,18
+".. Pará";4437115730,71;-;-;-;-;4437115730,71
+".. Amapá";291637984,75;-;-;-;-;291637984,75
+".. Tocantins";999998621,85;-;-;-;-;999998621,85
+"Região Nordeste";-;37384256278,38;-;-;-;37384256278,38
+".. Maranhão";-;3632860959,84;-;-;-;3632860959,84
+".. Piauí";-;2130616492,35;-;-;-;2130616492,35
+".. Ceará";-;6197357245,98;-;-;-;6197357245,98
+".. Rio Grande do Norte";-;2477372149,60;-;-;-;2477372149,60
+".. Paraíba";-;2470550104,25;-;-;-;2470550104,25
+".. Pernambuco";-;8046954289,39;-;-;-;8046954289,39
+".. Alagoas";-;2104405303,11;-;-;-;2104405303,11
+".. Sergipe";-;1130337049,71;-;-;-;1130337049,71
+".. Bahia";-;9193802684,16;-;-;-;9193802684,16
+"Região Sudeste";-;-;70925209448,62;-;-;70925209448,62
+".. Minas Gerais";-;-;19160106499,90;-;-;19160106499,90
+".. Espírito Santo";-;-;3139189177,73;-;-;3139189177,73
+".. Rio de Janeiro";-;-;9696364115,11;-;-;9696364115,11
+".. São Paulo";-;-;38929549655,89;-;-;38929549655,89
+"Região Sul";-;-;-;33069711760,57;-;33069711760,57
+".. Paraná";-;-;-;13786964617,28;-;13786964617,28
+".. Santa Catarina";-;-;-;7324100054,96;-;7324100054,96
+".. Rio Grande do Sul";-;-;-;11958647088,33;-;11958647088,33
+"Região Centro-Oeste";-;-;-;-;11296365275,41;11296365275,41
+".. Mato Grosso do Sul";-;-;-;-;2172157981,36;2172157981,36
+".. Mato Grosso";-;-;-;-;2036923784,59;2036923784,59
+".. Goiás";-;-;-;-;4657350310,70;4657350310,70
+".. Distrito Federal";-;-;-;-;2429933198,76;2429933198,76
+"Total";9155215791,07;37384256278,38;70925209448,62;33069711760,57;11296365275,41;161830758554,06
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
