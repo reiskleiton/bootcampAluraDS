@@ -1,4 +1,4 @@
-# bootcampAluraDS
+# Bootcamp de Data-Science Aplicada
 Base de dados extraída da plataforma Tabnet http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/qiuf.def
 
 Procedimentos hospitalares do SUS - por local de internação - Brasil
