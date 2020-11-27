@@ -1,0 +1,10 @@
+faixa_etária;população;numero_casos;%_casos;incidencia_100_mil_hab;grupos_de_idade;coeficiente_de_incidência_por_faixa_etária_das_estratégias_de_vacinação;distribuicao_por_sexo_M;distribuicao_por_sexo_F;
+<1;1,4;3.194;17,7;222,14;1.568;1.621
+1 a 4;5,2;2.529;14,0;48,31;1.202;1.322
+5 a 9;6,8;447;2,5;6,52;256;216
+10 a 14;7,9;337;1,9;4,25;150;187
+15 a 19;7,9;2.310;12,8;28,93;1.157;1.153
+20 a 29;17,6;5.651;31,4;32,08;2.642;3.009
+30 a 39;15,6;2.351;13,0;15,06;1.013;1.338
+40 a 49;13,0;1.115;6,2;8,57;581;534
+>50;20,0;89;0,5;0,44;14;26

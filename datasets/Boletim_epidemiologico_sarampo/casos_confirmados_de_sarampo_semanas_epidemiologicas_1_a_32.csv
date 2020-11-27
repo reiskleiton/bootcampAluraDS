@@ -1,0 +1,22 @@
+id;uf;confirmados_num;confirmados_%;total_de_municípios;incidencia_100_mil_hab;semanas_transcorridas_do_ultimo_caso_confirmado
+1;Pará;5.025;65,1;76;91,15;2
+2;Rio de Janeiro;1.299;16,8;34;9,55;4
+3;São Paulo;772;10,0;86;2,67;1
+4;Paraná;309;4,0;25;7,35;-
+5;Santa Catarina;110;1,4;14;5,53;17
+6;Rio Grande do Sul;37;0,5;8;1,62;17
+14;Amapá;43;0,6;2;8,25;9
+7;Pernambuco;34;0,4;11;1,01;19
+8;Minas Gerais;21;0,3;9;0,57;18
+9;Maranhão;17;0,2;2;32,54;14
+10;Sergipe;8;0,1;2;5,89;14
+11;Goiás;8;0,1;4;0,27;18
+12;Bahia;7;0,1;6;0,21;16
+13;Rondônia;6;0,1;1;7,51;19
+19;Mato Grosso do Sul;5;0,1;1;54,19;20
+15;Distrito Federal;5;0,1;1;0,19;22
+16;Amazonas;4;0,1;1;0,21;24
+17;Alagoas;3;0,0;3;0,29;24
+18;Ceará;3;0,0;1;16,44;17
+20;Mato Grosso;1;0,0;1;1,98;21
+21;Tocantins;1;0,0;1;1,98;28
