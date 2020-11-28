@@ -1,0 +1,408 @@
+semana_epidemiologica,uf,confirmados_num,confirmados_%
+6,Alagoas,1,0.3
+6,Pernambuco,7,2.08
+6,Rio Grande do Sul,11,3.26
+6,Santa Catarina,22,6.53
+6,Paraná,64,18.99
+6,Rio de Janeiro,93,27.3
+6,São Paulo,136,40.36
+6,Pará,4,1.19
+10,São Paulo,280,30.8
+10,Alagoas,4,0.44
+10,Rio de Janeiro,230,25.3
+10,Pará,192,21.12
+10,Paraná,113,12.43
+10,Santa Catarina,48,5.28
+10,Minas Gerais,3,0.33
+10,Rio Grande do Sul,21,2.31
+10,Pernambuco,18,1.98
+15,Pará,970,40.9
+15,Tocantins,1,0.0
+15,Mato Grosso do Sul,1,0.0
+15,Distrito Federal,2,0.1
+15,Rondônia,2,0.1
+15,Ceará,1,0.0
+15,Maranhão,3,0.1
+15,São Paulo,532,22.5
+15,Rio de Janeiro,515,21.7
+15,Paraná,160,6.8
+15,Sergipe,3,0.1
+15,Pernambuco,31,1.3
+15,Rio Grande do Sul,30,1.3
+15,Santa Catarina,96,4.1
+15,Alagoas,5,0.2
+15,Amapá,4,0.2
+15,Amazonas,4,0.2
+15,Bahia,3,0.1
+15,Minas Gerais,6,0.3
+16,Pará,1227,43.7
+16,Tocantins,1,0.0
+16,Mato Grosso do Sul,1,0.0
+16,Ceará,1,0.0
+16,Distrito Federal,2,0.1
+16,Rondônia,2,0.1
+16,Bahia,3,0.1
+16,Amazonas,4,0.1
+16,Amapá,4,0.1
+16,Sergipe,3,0.1
+16,Minas Gerais,7,0.2
+16,Alagoas,5,0.2
+16,São Paulo,541,19.3
+16,Paraná,176,6.3
+16,Santa Catarina,99,3.5
+16,Rio de Janeiro,659,23.5
+16,Rio Grande do Sul,30,1.1
+16,Maranhão,9,0.3
+16,Pernambuco,31,1.1
+17,Amapá,4,0.1
+17,Tocantins,1,0.0
+17,Mato Grosso do Sul,1,0.0
+17,Ceará,1,0.0
+17,Distrito Federal,2,0.1
+17,Bahia,2,0.1
+17,Sergipe,3,0.1
+17,Amazonas,4,0.1
+17,Alagoas,5,0.2
+17,Rondônia,2,0.1
+17,Maranhão,9,0.3
+17,Pará,1227,42.2
+17,Rio de Janeiro,717,24.6
+17,São Paulo,577,19.8
+17,Paraná,187,6.4
+17,Minas Gerais,7,0.2
+17,Santa Catarina,99,3.4
+17,Pernambuco,31,1.1
+17,Rio Grande do Sul,31,1.1
+19,Rondônia,2,0.1
+19,Tocantins,1,0.0
+19,Mato Grosso do Sul,1,0.0
+19,Ceará,1,0.0
+19,Distrito Federal,2,0.1
+19,Bahia,2,0.1
+19,Maranhão,9,0.1
+19,Amazonas,4,0.2
+19,Pará,1272,40.9
+19,Rio de Janeiro,874,21.7
+19,São Paulo,604,22.5
+19,Goiás,4,0.0
+19,Santa Catarina,103,4.1
+19,Pernambuco,32,1.3
+19,Paraná,189,6.8
+19,Sergipe,8,0.1
+19,Minas Gerais,7,0.3
+19,Alagoas,5,0.2
+19,Amapá,4,0.2
+19,Rio Grande do Sul,31,1.3
+20,Mato Grosso do Sul,6,0.2
+20,Distrito Federal,2,0.1
+20,Rondônia,2,0.1
+20,Bahia,2,0.1
+20,Alagoas,3,0.1
+20,Amazonas,4,0.1
+20,Amapá,4,0.1
+20,Goiás,5,0.2
+20,Tocantins,1,0.0
+20,Ceará,1,0.0
+20,Sergipe,7,0.2
+20,Minas Gerais,11,0.3
+20,Rio Grande do Sul,31,0.9
+20,Pernambuco,32,1.0
+20,Santa Catarina,107,3.2
+20,Paraná,189,5.7
+20,São Paulo,608,18.5
+20,Rio de Janeiro,911,27.6
+20,Pará,1360,41.3
+20,Maranhão,9,0.3
+21,Amapá,4,0.1
+21,Amazonas,4,0.1
+21,Alagoas,3,0.1
+21,Goiás,5,0.1
+21,Rondônia,2,0.1
+21,Ceará,1,0.0
+21,Tocantins,1,0.0
+21,Bahia,3,0.1
+21,Mato Grosso do Sul,5,0.1
+21,Distrito Federal,2,0.1
+21,Maranhão,9,0.2
+21,Pará,1615,44.5
+21,Rio de Janeiro,937,25.8
+21,São Paulo,660,18.2
+21,Paraná,190,5.2
+21,Sergipe,7,0.2
+21,Pernambuco,32,0.9
+21,Rio Grande do Sul,31,0.9
+21,Minas Gerais,11,0.3
+21,Santa Catarina,107,2.9
+23,Ceará,3,0.1
+23,Tocantins,1,0.0
+23,Mato Grosso,1,0.0
+23,Distrito Federal,2,0.0
+23,Rondônia,2,0.0
+23,Alagoas,3,0.1
+23,Rio Grande do Sul,36,0.9
+23,Amapá,4,0.1
+23,Rio de Janeiro,983,24.5
+23,São Paulo,673,16.8
+23,Paraná,202,5.0
+23,Santa Catarina,109,2.7
+23,Pernambuco,32,0.8
+23,Minas Gerais,12,0.3
+23,Amazonas,4,0.1
+23,Pará,1918,47.7
+23,Mato Grosso do Sul,5,0.1
+23,Goiás,5,0.1
+23,Bahia,6,0.1
+23,Sergipe,7,0.2
+23,Maranhão,9,0.2
+24,Tocantins,1,0.0
+24,Mato Grosso,1,0.0
+24,Distrito Federal,2,0.0
+24,Rondônia,2,0.0
+24,Ceará,3,0.1
+24,Alagoas,3,0.1
+24,Amazonas,4,0.1
+24,Goiás,5,0.1
+24,Bahia,6,0.1
+24,Mato Grosso do Sul,5,0.1
+24,Sergipe,7,0.2
+24,Amapá,13,0.3
+24,Maranhão,17,0.4
+24,Pernambuco,33,0.7
+24,Rio Grande do Sul,37,0.8
+24,Santa Catarina,112,2.4
+24,Paraná,202,4.4
+24,São Paulo,681,14.7
+24,Rio de Janeiro,1023,22.0
+24,Pará,2472,53.3
+24,Minas Gerais,12,0.3
+25,Goiás,5,0.1
+25,Mato Grosso do Sul,5,0.1
+25,Distrito Federal,5,0.1
+25,Amazonas,4,0.1
+25,Tocantins,1,0.0
+25,Ceará,3,0.1
+25,Rondônia,2,0.0
+25,Mato Grosso,1,0.0
+25,Alagoas,3,0.1
+25,Bahia,6,0.1
+25,Sergipe,7,0.1
+25,Amapá,13,0.3
+25,Pará,2618,52.8
+25,Rio de Janeiro,1185,23.9
+25,São Paulo,681,13.7
+25,Paraná,209,4.2
+25,Minas Gerais,12,0.2
+25,Rio Grande do Sul,37,0.7
+25,Pernambuco,33,0.7
+25,Maranhão,17,0.3
+25,Santa Catarina,111,2.2
+26,Bahia,6,0.1
+26,Mato Grosso,1,0.0
+26,Rondônia,2,0.0
+26,Ceará,3,0.1
+26,Alagoas,3,0.1
+26,Amazonas,4,0.1
+26,Distrito Federal,5,0.1
+26,Mato Grosso do Sul,5,0.1
+26,Goiás,8,0.1
+26,Tocantins,1,0.0
+26,Sergipe,8,0.1
+26,Amapá,21,0.4
+26,Maranhão,17,0.3
+26,Pernambuco,33,0.6
+26,Rio Grande do Sul,37,0.7
+26,Santa Catarina,111,2.0
+26,Paraná,248,4.4
+26,São Paulo,688,12.2
+26,Rio de Janeiro,1192,21.1
+26,Pará,3237,57.4
+26,Minas Gerais,12,0.2
+29,Bahia,7,0.1
+29,Distrito Federal,5,0.1
+29,Mato Grosso do Sul,5,0.1
+29,Amazonas,4,0.1
+29,Sergipe,8,0.1
+29,Ceará,3,0.0
+29,Mato Grosso,1,0.0
+29,Tocantins,1,0.0
+29,Alagoas,3,0.0
+29,Goiás,8,0.1
+29,Rondônia,6,0.1
+29,Minas Gerais,21,0.3
+29,Rio de Janeiro,1241,17.2
+29,São Paulo,711,9.9
+29,Paraná,305,4.2
+29,Santa Catarina,111,1.5
+29,Pará,4642,64.4
+29,Rio Grande do Sul,37,0.5
+29,Maranhão,17,0.2
+29,Pernambuco,34,0.5
+29,Amapá,42,0.6
+30,Bahia,7,0.1
+30,Tocantins,1,0.0
+30,Mato Grosso,1,0.0
+30,Ceará,3,0.0
+30,Alagoas,3,0.0
+30,Amazonas,4,0.1
+30,Mato Grosso do Sul,5,0.1
+30,Distrito Federal,5,0.1
+30,Rondônia,6,0.1
+30,Sergipe,8,0.1
+30,Goiás,8,0.1
+30,Maranhão,17,0.2
+30,Rio de Janeiro,1241,17.0
+30,São Paulo,721,9.9
+30,Paraná,305,4.2
+30,Santa Catarina,111,1.5
+30,Pará,4713,64.6
+30,Rio Grande do Sul,37,0.5
+30,Pernambuco,34,0.5
+30,Minas Gerais,21,0.3
+30,Amapá,42,0.6
+31,Bahia,7,0.1
+31,Tocantins,1,0.0
+31,Mato Grosso,1,0.0
+31,Ceará,3,0.0
+31,Alagoas,3,0.0
+31,Amazonas,4,0.1
+31,Mato Grosso do Sul,5,0.1
+31,Distrito Federal,5,0.1
+31,Rondônia,6,0.1
+31,Sergipe,8,0.1
+31,Goiás,8,0.1
+31,Maranhão,17,0.2
+31,Rio de Janeiro,1281,17.2
+31,São Paulo,721,9.7
+31,Paraná,309,4.2
+31,Santa Catarina,110,1.5
+31,Pará,4808,64.7
+31,Rio Grande do Sul,37,0.5
+31,Pernambuco,34,0.5
+31,Minas Gerais,21,0.3
+31,Amapá,43,0.6
+32,Paraná,309,4.0
+32,Pará,5025,65.1
+32,Tocantins,1,0.0
+32,Mato Grosso,1,0.0
+32,Ceará,3,0.0
+32,Alagoas,3,0.0
+32,Amazonas,4,0.1
+32,Distrito Federal,5,0.1
+32,Mato Grosso do Sul,5,0.1
+32,Rondônia,6,0.1
+32,Bahia,7,0.1
+32,Rio de Janeiro,1299,16.8
+32,Sergipe,8,0.1
+32,Maranhão,17,0.2
+32,Minas Gerais,21,0.3
+32,Pernambuco,34,0.4
+32,Amapá,43,0.6
+32,Rio Grande do Sul,37,0.5
+32,Santa Catarina,110,1.4
+32,São Paulo,772,10.0
+32,Goiás,8,0.1
+34,Bahia,7,0.1
+34,Tocantins,1,0.0
+34,Mato Grosso,1,0.0
+34,Ceará,3,0.0
+34,Alagoas,3,0.0
+34,Amazonas,4,0.1
+34,Mato Grosso do Sul,7,0.1
+34,Distrito Federal,5,0.1
+34,Rondônia,6,0.1
+34,Sergipe,8,0.1
+34,Goiás,8,0.1
+34,Maranhão,17,0.2
+34,Rio de Janeiro,1320,16.9
+34,São Paulo,784,10.0
+34,Paraná,311,4.0
+34,Santa Catarina,110,1.4
+34,Pará,5084,65.0
+34,Rio Grande do Sul,37,0.5
+34,Pernambuco,34,0.4
+34,Minas Gerais,21,0.3
+34,Amapá,51,0.7
+35,Bahia,7,0.1
+35,Mato Grosso,1,0.0
+35,Ceará,3,0.0
+35,Alagoas,3,0.0
+35,Amazonas,4,0.1
+35,Mato Grosso do Sul,7,0.1
+35,Tocantins,1,0.0
+35,Distrito Federal,5,0.1
+35,Rondônia,6,0.1
+35,Sergipe,8,0.1
+35,Amapá,57,0.7
+35,Maranhão,17,0.2
+35,Pará,5106,65.0
+35,Rio de Janeiro,1325,16.9
+35,São Paulo,785,10.0
+35,Paraná,311,4.0
+35,Goiás,8,0.1
+35,Rio Grande do Sul,37,0.5
+35,Pernambuco,34,0.4
+35,Minas Gerais,21,0.3
+35,Santa Catarina,110,1.4
+36,Bahia,7,0.1
+36,Mato Grosso,1,0.0
+36,Tocantins,1,0.0
+36,Alagoas,3,0.0
+36,Ceará,3,0.0
+36,Amazonas,4,0.1
+36,Distrito Federal,5,0.1
+36,Rondônia,6,0.1
+36,Mato Grosso do Sul,7,0.1
+36,Goiás,8,0.1
+36,Sergipe,8,0.1
+36,Maranhão,17,0.2
+36,Rio de Janeiro,1329,16.8
+36,São Paulo,791,10.0
+36,Paraná,311,3.9
+36,Santa Catarina,110,1.4
+36,Pará,5166,65.2
+36,Rio Grande do Sul,37,0.5
+36,Pernambuco,34,0.4
+36,Minas Gerais,21,0.3
+36,Amapá,60,0.8
+37,Bahia,7,0.1
+37,Mato Grosso,1,0.0
+37,Ceará,3,0.0
+37,Alagoas,4,0.1
+37,Amazonas,4,0.1
+37,Mato Grosso do Sul,7,0.1
+37,Tocantins,1,0.0
+37,Distrito Federal,5,0.1
+37,Rondônia,6,0.1
+37,Sergipe,8,0.1
+37,Amapá,64,0.8
+37,Maranhão,17,0.2
+37,Minas Gerais,21,0.3
+37,Pernambuco,34,0.4
+37,Rio Grande do Sul,37,0.5
+37,Santa Catarina,110,1.4
+37,Paraná,311,3.9
+37,São Paulo,791,10.0
+37,Rio de Janeiro,1330,16.8
+37,Pará,5170,65.1
+37,Goiás,8,0.1
+43,Sergipe,8,0.1
+43,Bahia,7,0.1
+43,Ceará,7,0.1
+43,Alagoas,3,0.0
+43,Distrito Federal,5,0.1
+43,Amazonas,4,0.0
+43,Goiás,8,0.1
+43,Rondônia,6,0.1
+43,Mato Grosso do Sul,8,0.1
+43,Santa Catarina,110,1.3
+43,Minas Gerais,21,0.3
+43,Pernambuco,34,0.4
+43,Rio Grande do Sul,37,0.4
+43,Amapá,115,1.4
+43,Paraná,377,4.6
+43,São Paulo,825,10.0
+43,Rio de Janeiro,1340,16.2
+43,Pará,5327,64.5
+43,Mato Grosso,1,0.0
+43,Maranhão,17,0.2
+43,Tocantins,1,0.0
